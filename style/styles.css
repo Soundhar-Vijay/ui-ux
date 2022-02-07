@@ -1,0 +1,89 @@
+#searchbar{
+    
+   
+   border-radius: 30px;
+   width:60vh;
+   min-height: 5vh; 
+  }
+
+  
+
+  body{
+      text-align: center;
+      background-color: aliceblue;
+  }
+
+  .iconDetails {
+  
+   float:left; 
+   height:40px;
+   width:40px; 
+   } 
+   
+   .container2 {
+    
+    margin-left: 64vh;
+    padding-top: 20vh;
+    
+     padding: 4vh;
+       width:270px;
+       height:auto;
+       padding:5vh;
+       float:left;
+   }
+
+
+  
+   span{
+     color: black;
+   }
+   P{
+     font-size: small;
+     color: coral;
+   }
+   
+   h4{
+    font-size: medium;
+    
+    }
+   .left {float:left;width:45px;}
+   .right {float:left;margin:0 0 0 5px;width:215px;}
+
+  h1{
+    font-size: 2vh;
+  }
+
+  h2{
+    font-size: 2vh;
+  }
+
+  img{
+      margin-top: 6vh;
+      margin-bottom: 1vh;
+border-radius: 50%;
+border: px solid black;
+
+  }
+  input[type=text] {
+     width: 30%;
+     -webkit-transition: width 0.15s ease-in-out;
+     transition: width 0.15s ease-in-out;
+  }
+
+  /* When the input field gets focus,
+       change its width to 100% */
+  input[type=text]:focus {
+    width: 70%;
+  }
+
+ #list{
+   font-size:  1.5em;
+   margin-left: 90px;
+  
+  }
+
+
+
+   
+ 
+
